@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit');
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+#qr {
+    background-color: white;
+    width: 23rem;
+    height: auto;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 1em;
+    margin: 20vh 37vw;
+    font-family: 'Outfit';
+}
+
+img {
+    width: 100%;
+    border-radius: 1em;
+}
+
+p {
+    font-weight: 400;
+    text-align: center;
+    width: 25ch;
+    height: auto;
+    margin-left: 15%;
+}
+
+h1 {
+    font-weight: 700;
+}
